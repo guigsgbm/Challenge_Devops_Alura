@@ -10,7 +10,7 @@ schema_view = get_schema_view(
    openapi.Info(
       title="Aluraflix",
       default_version='v1',
-      description="Provedor local de séries e filmes desenvolvida pela Alura no curso de Django Rest",
+      description="Provedor local de séries e filmes desenvolvida pela Alura no curso de Django Rest, testando trigger",
       terms_of_service="#",
       contact=openapi.Contact(email="c3po@alura.com.br"),
       license=openapi.License(name="BSD License"),
